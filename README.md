@@ -1,6 +1,16 @@
 # Password Generator
 
 
+# Description
+This is the 3rd challende for the Web Development bootcamp where I have created a password generator that can be used by a user to create a password that can contain spcial characters, lower case, upper case, variable length between 8-128 characters, and numbers. The user will follow a series of prompts and based off of these prompts generate a password that will for the instructions the user has given.
+
+
+
+# Difficulties
+I struggled with creating a functions that interacted appropriately with the chosen prompts that the user can select to accuratley display what the user wanted within their password. I had to reach out to other students in the bootcamp to combat this and their help was tremendous. This resulted in me having to create another repository where I had to move majority of my previous code from earlier attempts in to this one.
+
+
+
 # User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
@@ -22,3 +32,11 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+
+# Screenshots of working code 
+
+![Beofre image of Password Generator](./assets/images/passwordgenbefore.png)
+
+
+![After image of Password Generator](./assets/images/passwordgenafter.png)
