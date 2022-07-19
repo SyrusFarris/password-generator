@@ -10,6 +10,11 @@ This is the 3rd challende for the Web Development bootcamp where I have created 
 I struggled with creating a functions that interacted appropriately with the chosen prompts that the user can select to accuratley display what the user wanted within their password. I had to reach out to other students in the bootcamp to combat this and their help was tremendous. This resulted in me having to create another repository where I had to move majority of my previous code from earlier attempts in to this one.
 
 
+# URLS containin Repository and Publish site
+
+published: https://syrusfarris.github.io/password-generator/
+Repository: https://github.com/SyrusFarris/password-generator
+
 
 # User Story
 AS AN employee with access to sensitive data
